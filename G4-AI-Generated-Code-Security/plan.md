@@ -19,3 +19,6 @@ Secode: A Security Testing Framework for AI-Generated Code and Empirical Researc
 - 提出了规范化效率评估的统计学模型
 - 利用收集到的漏洞集，针对chatGPT3.5生成 Solidity 语言的准确性和安全性进行了方案实测，得出了——(todo)结论。同时我们针对verilog等其他语言进行了实测分析，结果证实我们的方案可以高效准确地评估特定语言的准确性和安全性，且对多种语言都有较好的适应性。
 - 本质是代码安全检测方法的应用，而大模型作为场景。我们相信此方法可以推广至任何需要检测代码安全的场景中。
+
+## 仓库地址
+https://github.com/TiDududu/Secode_compile_H.git
